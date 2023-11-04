@@ -1,7 +1,5 @@
 package solid.solid_wrong.di_wrong;
 
-import isp.IDeveloper;
-
 public class JSDeveloper implements IDeveloper {
     @Override
     public void writeCode() {
